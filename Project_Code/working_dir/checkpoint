@@ -1,0 +1,3 @@
+model_checkpoint_path: "seq2seq.ckpt-97800"
+all_model_checkpoint_paths: "seq2seq.ckpt-97500"
+all_model_checkpoint_paths: "seq2seq.ckpt-97800"
